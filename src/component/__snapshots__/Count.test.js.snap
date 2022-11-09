@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Count page testing snapShot tabel 1`] = `
+<table
+  className="custome-border"
+>
+  <thead>
+    <tr>
+      <td>
+        id
+      </td>
+      <td>
+        names
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        001
+      </td>
+      <td>
+        test
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Count page testing snapShot table 1 1`] = `
+<table
+  className="custome-border"
+>
+  <thead>
+    <tr>
+      <td>
+        id
+      </td>
+      <td>
+        names
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        001
+      </td>
+      <td>
+        test
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
+
+exports[`Count page testing snapShot table 2 1`] = `
+<table
+  className="custome-border"
+>
+  <thead>
+    <tr>
+      <td>
+        id
+      </td>
+      <td>
+        names
+      </td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        001
+      </td>
+      <td>
+        test
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
